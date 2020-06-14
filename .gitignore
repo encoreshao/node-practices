@@ -17,7 +17,8 @@
 /storage/*
 
 /node_modules
-/headless-chrome/node_modules
+/**/node_modules
+/**/data/
 /yarn-error.log
 .yarnclean
 # Because we use yarn
